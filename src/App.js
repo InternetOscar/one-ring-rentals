@@ -18,12 +18,12 @@ function App() {
 							<div className="col-sm-12">
 								<ul id="top-buttons">
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-sign-in" /> Login
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-pencil-square-o" /> Register
 										</a>
 									</li>
@@ -35,16 +35,16 @@ function App() {
 											</span>
 											<ul>
 												<li>
-													<a href="#">Deutsch</a>
+													<a href="/">Deutsch</a>
 												</li>
 												<li>
-													<a href="#">Español</a>
+													<a href="/">Español</a>
 												</li>
 												<li>
-													<a href="#">Français</a>
+													<a href="/">Français</a>
 												</li>
 												<li>
-													<a href="#">Português</a>
+													<a href="/">Português</a>
 												</li>
 											</ul>
 										</div>
@@ -94,22 +94,22 @@ function App() {
 									</button>
 									<ul className="nav navbar-nav">
 										<li>
-											<a href="#">Find a Rental</a>
+											<a href="/">Find a Rental</a>
 										</li>
 										<li>
-											<a href="#">List your rental</a>
+											<a href="/">List your rental</a>
 										</li>
 										<li>
-											<a href="#">Regions</a>
+											<a href="/">Regions</a>
 										</li>
 										<li>
-											<a href="#">Travel Guides</a>
+											<a href="/">Travel Guides</a>
 										</li>
 										<li>
-											<a href="#">About Us</a>
+											<a href="/">About Us</a>
 										</li>
 										<li>
-											<a href="#">Regions</a>
+											<a href="/">Regions</a>
 										</li>
 									</ul>
 								</nav>
@@ -144,7 +144,7 @@ function App() {
 							<div className="caption sfl slider-subtitle">
 								Relaxation in the Bay of Belfalas
 							</div>
-							<a href="#" className="caption sfb btn btn-default btn-lg">
+							<a href="/" className="caption sfb btn btn-default btn-lg">
 								Learn More
 							</a>
 						</div>
@@ -160,7 +160,7 @@ function App() {
 						<div className="carousel-caption">
 							<div className="caption sfr slider-title">The simple life</div>
 							<div className="caption sfl slider-subtitle">Lush gardens in Mordor</div>
-							<a href="#" className="caption sfb btn btn-default btn-lg">
+							<a href="/" className="caption sfb btn btn-default btn-lg">
 								Learn More
 							</a>
 						</div>
@@ -282,37 +282,37 @@ function App() {
 									<h1 className="section-title">Popular Regions</h1>
 									<div id="regions">
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>Rhovanion</h3>
 											</a>
 										</div>
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>Eriador</h3>
 											</a>
 										</div>
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>Bay of Belfalas</h3>
 											</a>
 										</div>
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>Mordor</h3>
 											</a>
 										</div>
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>The Southwest</h3>
 											</a>
 										</div>
 										<div className="item">
-											<a href="#">
+											<a href="/">
 												<img src="http://placehold.it/194x194" alt="" />
 												<h3>Arnor</h3>
 											</a>
@@ -324,7 +324,7 @@ function App() {
 							<div className="grid-style1">
 								<div className="item col-md-4">
 									<div className="image">
-										<a href="#">
+										<a href="/">
 											<span className="btn btn-default">
 												<i className="fa fa-file-o" /> Read More
 											</span>
@@ -347,7 +347,7 @@ function App() {
 											</li>
 										</ul>
 										<h3>
-											<a href="#">How to get your dream property for the best price?</a>
+											<a href="/">How to get your dream property for the best price?</a>
 										</h3>
 										<p>
 											Sed rutrum urna id tellus euismod gravida. Praesent placerat,
@@ -357,7 +357,7 @@ function App() {
 								</div>
 								<div className="item col-md-4">
 									<div className="image">
-										<a href="#">
+										<a href="/">
 											<span className="btn btn-default">
 												<i className="fa fa-file-o" /> Read More
 											</span>
@@ -380,7 +380,7 @@ function App() {
 											</li>
 										</ul>
 										<h3>
-											<a href="#">7 tips to get the best mortgage.</a>
+											<a href="/">7 tips to get the best mortgage.</a>
 										</h3>
 										<p>
 											Sed rutrum urna id tellus euismod gravida. Praesent placerat,
@@ -390,7 +390,7 @@ function App() {
 								</div>
 								<div className="item col-md-4">
 									<div className="image">
-										<a href="#">
+										<a href="/">
 											<span className="btn btn-default">
 												<i className="fa fa-file-o" /> Read More
 											</span>
@@ -413,7 +413,7 @@ function App() {
 											</li>
 										</ul>
 										<h3>
-											<a href="#">
+											<a href="/">
 												House, location or price: What's the most important factor?
 											</a>
 										</h3>
@@ -425,7 +425,7 @@ function App() {
 								</div>
 							</div>
 							<div className="center">
-								<a href="#" className="btn btn-default-color">
+								<a href="/" className="btn btn-default-color">
 									View All News
 								</a>
 							</div>
@@ -436,7 +436,7 @@ function App() {
 							{/* BEGIN SIDEBAR ABOUT */}
 							<LastMinuteDealsSection />
 							<p className="center">
-								<a className="btn btn-fullcolor" href="#">
+								<a className="btn btn-fullcolor" href="/">
 									More deals
 								</a>
 							</p>
@@ -445,25 +445,25 @@ function App() {
 								<h2 className="section-title">Activity</h2>
 								<ul className="activity">
 									<li className="col-lg-12">
-										<a href="#">
+										<a href="/">
 											<img src="http://placehold.it/70x70" alt="" />
 										</a>
 										<div className="info">
 											<h5>
-												Sam Minnée reviewed <a href="#">The House With No Windows</a>
+												Sam Minnée reviewed <a href="/">The House With No Windows</a>
 											</h5>
 											<p>Awesome solitary confinement, mate. Spot on. Sweet as.</p>
 											<h6>Just now</h6>
 										</div>
 									</li>
 									<li className="col-lg-12">
-										<a href="#">
+										<a href="/">
 											<img src="http://placehold.it/70x70" alt="" />
 										</a>
 										<div className="info">
 											<h5>
 												Ingo Schoomer asked a question about{" "}
-												<a href="#">The Mistake by the Lake</a>
+												<a href="/">The Mistake by the Lake</a>
 											</h5>
 											<p>Has this house been unit tested?</p>
 											<h6>37 minutes ago</h6>
@@ -482,7 +482,7 @@ function App() {
 				<div id="footer-top" className="container">
 					<div className="row">
 						<div className="block col-sm-3">
-							<a href="#">
+							<a href="/">
 								<img src="images/logo.png" alt="One Ring Rentals" />
 							</a>
 							<br />
@@ -498,13 +498,13 @@ function App() {
 							<h3>Helpful Links</h3>
 							<ul className="footer-links">
 								<li>
-									<a href="#">All rentals</a>
+									<a href="/">All rentals</a>
 								</li>
 								<li>
-									<a href="#">List your rental</a>
+									<a href="/">List your rental</a>
 								</li>
 								<li>
-									<a href="#">Read our FAQs</a>
+									<a href="/">Read our FAQs</a>
 								</li>
 							</ul>
 						</div>
@@ -592,32 +592,32 @@ function App() {
 								{/* BEGIN SOCIAL NETWORKS */}
 								<ul className="social-networks">
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-facebook" />
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-twitter" />
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-google" />
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-pinterest" />
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-youtube" />
 										</a>
 									</li>
 									<li>
-										<a href="#">
+										<a href="/">
 											<i className="fa fa-rss" />
 										</a>
 									</li>
