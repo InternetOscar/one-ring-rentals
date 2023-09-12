@@ -6,9 +6,10 @@ function Deals() {
 	const aDeal = deals.map((deals) => (
 		<li className="col-md-12">
 			<div className="image">
-				<a href="blog-detail.html" />
 				{/* might need to change the image to a source in data.js but this works for now */}
-				<img alt="" src="http://placehold.it/100x100" />
+				<a href="blog-detail.html">
+					<img alt="" src="http://placehold.it/100x100" />
+				</a>
 			</div>
 			<ul className="top-info">
 				<li>
